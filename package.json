@@ -16,6 +16,9 @@
     "flowchart",
     "svg"
   ],
+  "engines" : {
+    "node" : ">=6.4.0"
+  },
   "author": "Kevin Viglucci <kviglucci@gmail.com> (https://github.com/viglucci)",
   "license": "MIT",
   "bugs": {
