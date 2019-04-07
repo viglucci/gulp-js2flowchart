@@ -1,4 +1,4 @@
-# gulp-js-code-to-svg-flowchart
+# gulp-js2flowchart
 A very basic gulp plugin wrapper for [js2flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart).
 
 # Usage
