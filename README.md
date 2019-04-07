@@ -3,6 +3,14 @@ A very basic gulp plugin wrapper for [js2flowchart](https://github.com/Bogdan-Ly
 
 # Usage
 
+Install with NPM:
+
+```bash
+npm install --save gulp-js2flowchart
+```
+
+Consume in your gulpfile.js file:
+
 ```js
 const gulp = require('gulp');
 const { plugin } = require('gulp-js2flowchart');
