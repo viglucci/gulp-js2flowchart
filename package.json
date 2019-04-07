@@ -1,5 +1,5 @@
 {
-  "name": "gulp-js-code-to-svg-flowchart",
+  "name": "gulp-js2flowchart",
   "version": "0.1.0",
   "description": "A very basic gulp plugin wrapper for js2flowchart.",
   "main": "index.js",
