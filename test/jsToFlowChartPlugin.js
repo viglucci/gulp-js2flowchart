@@ -65,7 +65,7 @@ describe('jsToFlowChartPlugin', () => {
       }
     `);
     const file = new File({
-      name: 'myFn.js',
+      path: 'some/fake/path/myFn.js',
       contents: buffer
     });
 
