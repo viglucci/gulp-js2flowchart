@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viglucci/gulp-js-code-to-svg-flowchart.git"
+    "url": "git+https://github.com/viglucci/gulp-js2flowchart.git"
   },
   "keywords": [
     "gulp",
@@ -22,9 +22,9 @@
   "author": "Kevin Viglucci <kviglucci@gmail.com> (https://github.com/viglucci)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/viglucci/gulp-js-code-to-svg-flowchart/issues"
+    "url": "https://github.com/viglucci/gulp-js2flowchart/issues"
   },
-  "homepage": "https://github.com/viglucci/gulp-js-code-to-svg-flowchart#readme",
+  "homepage": "https://github.com/viglucci/gulp-js2flowchart#readme",
   "dependencies": {
     "gulp-util": "^3.0.8",
     "js2flowchart": "^1.1.7",
