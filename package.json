@@ -1,6 +1,6 @@
 {
   "name": "gulp-js-code-to-svg-flowchart",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A very basic gulp plugin wrapper for js2flowchart.",
   "main": "index.js",
   "scripts": {
