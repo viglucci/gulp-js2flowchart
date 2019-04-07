@@ -1,0 +1,25 @@
+{
+  "name": "gulp-js-code-to-svg-flowchart",
+  "version": "0.0.1",
+  "description": "A gulp plugin wrapper for js-code-to-svg-flowchart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viglucci/gulp-js-code-to-svg-flowchart.git"
+  },
+  "keywords": [
+    "gulp",
+    "plugin",
+    "flowchart",
+    "svg"
+  ],
+  "author": "Kevin Viglucci <kviglucci@gmail.com> (https://github.com/viglucci)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viglucci/gulp-js-code-to-svg-flowchart/issues"
+  },
+  "homepage": "https://github.com/viglucci/gulp-js-code-to-svg-flowchart#readme"
+}
