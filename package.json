@@ -1,10 +1,10 @@
 {
   "name": "gulp-js-code-to-svg-flowchart",
   "version": "0.0.1",
-  "description": "A gulp plugin wrapper for js-code-to-svg-flowchart",
+  "description": "A very basic gulp plugin wrapper for js2flowchart.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -16,13 +16,27 @@
     "flowchart",
     "svg"
   ],
-  "engines" : {
-    "node" : ">=6.4.0"
+  "engines": {
+    "node": ">=6.4.0"
   },
   "author": "Kevin Viglucci <kviglucci@gmail.com> (https://github.com/viglucci)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/viglucci/gulp-js-code-to-svg-flowchart/issues"
   },
-  "homepage": "https://github.com/viglucci/gulp-js-code-to-svg-flowchart#readme"
+  "homepage": "https://github.com/viglucci/gulp-js-code-to-svg-flowchart#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "js2flowchart": "^1.1.7",
+    "map-stream": "0.0.7",
+    "plugin-error": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "event-stream": "^4.0.1",
+    "gulp": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "mocha": "^6.1.0",
+    "vinyl": "^2.2.0"
+  }
 }

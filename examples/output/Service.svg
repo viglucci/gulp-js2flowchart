@@ -1,0 +1,294 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="562" height="673" shape-rendering="optimizeSpeed">
+                
+            <g>
+                <rect x="50" y="80"
+            width="159.2" height="30"
+            style="fill:#80cbc4; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="80" x2="60" y2="110"
+                style="fill:#80cbc4; stroke:#444; stroke-width:1" />
+                <line x1="199.2" y1="80" x2="199.2" y2="110"
+                style="fill:#80cbc4; stroke:#444; stroke-width:1" />
+             
+                <title>class Service </title>
+            <text x="75" y="100"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="100">class Service </tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="128.5"
+            width="245" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="128.5" x2="97" y2="158.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="322" y1="128.5" x2="322" y2="158.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>constructor(dependencies)</title>
+            <text x="112" y="148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="148.5">constructor(dependencies)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="177"
+            width="412.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>this.someDependency = dependencies.someDependency</title>
+            <text x="139" y="197"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="197">this.someDependency = dependencies.someDependency</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="87" y="240.5"
+            width="143.6" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="240.5" x2="97" y2="270.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="220.6" y1="240.5" x2="220.6" y2="270.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>doWork(a, b)</title>
+            <text x="112" y="260.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="260.5">doWork(a, b)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="289"
+            width="162.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const sum = a + b</title>
+            <text x="139" y="309"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="309">const sum = a + b</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="154" y="352.5"
+            width="138" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="124,367.5 154,337.5 184,367.5 154,397.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(sum &gt;= 0)</title>
+            <text x="199" y="372.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="199" y="372.5">(sum &gt;= 0)</tspan>
+            </text>
+            
+            <text x="146.2" y="372.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="161.8" y="399.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+            <g>
+                <rect x="174" y="407.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="282" y1="417.5" x2="287" y2="417.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="282" y1="427.5" x2="287" y2="427.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M287, 411.5 L303, 422.5 L287, 433.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return sum</title>
+            <text x="189" y="427.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="427.5">return sum</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="124" y="457.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="216.4" y1="467.5" x2="221.4" y2="467.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="216.4" y1="477.5" x2="221.4" y2="477.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M221.4, 461.5 L237.4, 472.5 L221.4, 483.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return 0</title>
+            <text x="139" y="477.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="477.5">return 0</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="521"
+            width="221.6" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="521" x2="97" y2="551"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="298.6" y1="521" x2="298.6" y2="551"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>doSomethingElse(input)</title>
+            <text x="112" y="541"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="541">doSomethingElse(input)</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="124" y="569.5"
+            width="287.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="411.4" y1="579.5" x2="416.4" y2="579.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="411.4" y1="589.5" x2="416.4" y2="589.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M416.4, 573.5 L432.4, 584.5 L416.4, 595.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return this.someDependency(input)</title>
+            <text x="139" y="589.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="589.5">return this.someDependency(input)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="50" y="618"
+            width="209.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>module.exports = Servce</title>
+            <text x="65" y="638"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="638">module.exports = Servce</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="123" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Service.js</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Service.js</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 91 Q25 95
+                29 95
+                L42 95 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 92 L50, 95 L42, 98 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 110 L68.5 139.5 Q68.5 143.5
+                72.5 143.5
+                L79 143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 140.5 L87, 143.5 L79, 146.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 188 Q105.5 192
+                109.5 192
+                L116 192 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 189 L124, 192 L116, 195 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 110 L68.5 251.5 Q68.5 255.5
+                72.5 255.5
+                L79 255.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 252.5 L87, 255.5 L79, 258.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 270.5 L105.5 300 Q105.5 304
+                109.5 304
+                L116 304 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 301 L124, 304 L116, 307 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 270.5 L105.5 363.5 Q105.5 367.5
+                109.5 367.5
+                L116 367.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 364.5 L124, 367.5 L116, 370.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 397.5 L154 418.5 Q154 422.5
+                158 422.5
+                L166 422.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 419.5 L174, 422.5 L166, 425.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 270.5 L105.5 468.5 Q105.5 472.5
+                109.5 472.5
+                L116 472.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 469.5 L124, 472.5 L116, 475.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 110 L68.5 532 Q68.5 536
+                72.5 536
+                L79 536 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 533 L87, 536 L79, 539 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 551 L105.5 580.5 Q105.5 584.5
+                109.5 584.5
+                L116 584.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 581.5 L124, 584.5 L116, 587.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 629 Q25 633
+                29 633
+                L42 633 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 630 L50, 633 L42, 636 Z" 
+        fill="#333" />
+            </g>
+            </svg>

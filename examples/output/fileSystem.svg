@@ -1,0 +1,100 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="324" height="266" shape-rendering="optimizeSpeed">
+                
+                <g>
+                   <rect x="50" y="65"
+            width="217.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const fs = require(&apos;fs&apos;)</title>
+            <text x="65" y="85"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="85">const fs = require(&apos;fs&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="113.5"
+            width="248.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const readFile = fs.readFile</title>
+            <text x="65" y="133.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="133.5">const readFile = fs.readFile</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="162"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>module.exports = {*}</title>
+            <text x="65" y="182"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="182">module.exports = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="210.5"
+            width="92.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>readFile</title>
+            <text x="102" y="230.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="230.5">readFile</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="146.39999999999998" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>fileSystem.js</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">fileSystem.js</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 76 Q25 80
+                29 80
+                L42 80 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 77 L50, 80 L42, 83 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 124.5 Q25 128.5
+                29 128.5
+                L42 128.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 125.5 L50, 128.5 L42, 131.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 173 Q25 177
+                29 177
+                L42 177 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 174 L50, 177 L42, 180 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 192 L68.5 221.5 Q68.5 225.5
+                72.5 225.5
+                L87 225.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            </svg>
